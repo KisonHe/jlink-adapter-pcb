@@ -4426,7 +4426,7 @@
   (gr_text "5V" (at 171.4 101.24 90) (layer "F.SilkS") (tstamp 12a26738-6279-4c73-a460-86689c55f7e1)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (gr_text "$ver$ \"cfc1485\" 2022-12-14" (at 156.14 128.34) (layer "F.SilkS") (tstamp 1cd0e429-0bae-48a9-8511-3db82ff2678e)
+  (gr_text "$ver$" (at 156.14 128.34) (layer "F.SilkS") (tstamp 1cd0e429-0bae-48a9-8511-3db82ff2678e)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_text "TDI" (at 186.34 111.296) (layer "F.SilkS") (tstamp 20a2dd9e-a597-4e52-87a2-7dae604316d8)
